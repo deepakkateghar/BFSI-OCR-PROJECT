@@ -34,6 +34,4 @@ The system supports **loan eligibility checks**, **financial insights**, and **s
 | **APIs**        | Live Stock Market Data (Apple, Google) |
 | **Authentication** | User Sign-Up / Sign-In system    |
 
----
 
-## 📝 Project Structure
