@@ -1,7 +1,5 @@
 # 📄 BFSI OCR - Financial Document Scanner & Analyzer
 
-![BFSI OCR Banner](https://via.placeholder.com/800x200.png?text=BFSI+OCR+Project) <!-- Optional: Add a banner image here -->
-
 ## 🚀 Project Overview
 **BFSI OCR** is an intelligent Optical Character Recognition (OCR) system designed for the **Banking, Financial Services, and Insurance (BFSI)** sector. It automates the process of extracting, analyzing, and interpreting data from scanned financial documents such as bank statements, invoices, payslips, and profit & loss reports.  
 
