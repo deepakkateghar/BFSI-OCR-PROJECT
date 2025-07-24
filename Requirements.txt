@@ -1,0 +1,13 @@
+import streamlit as st
+import re
+from PIL import Image
+import pytesseract
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from collections import Counter
+import requests
+import yfinance as yf
+import datetime
+from sklearn.cluster import KMeans
+from streamlit.components.v1 import html
